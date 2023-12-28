@@ -4,6 +4,7 @@
 ## First step
 Creating HTML, CSS and JavaScript files—with the help of ChatGPT.
 # index.html file
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
