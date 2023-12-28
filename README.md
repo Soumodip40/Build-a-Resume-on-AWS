@@ -286,6 +286,8 @@ CloudFront is Amazon's content delivery network, or CDN. It's used to get conten
 
 For your simple résumé, because the files are so small, you won't notice much of a performance difference. But it is the way you'll be able to apply the TLS/SSL certificate you created in the last section.
 
+![Screenshot 2023-12-29 015633](https://github.com/Soumodip40/Build-a-Resume-on-AWS/assets/128739966/1e1a933a-cbe6-49e0-98c4-d89876a52871)
+
 
 # It works.
 
